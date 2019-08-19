@@ -1,21 +1,38 @@
-�ɶ���Ķ��԰ũҵ�Ƽ����޹�˾
+成都三亩橘园农业科技有限公司
 91510100MA6BAKML9H
 
 3moranges.com
 
-������
+阿里云
 cd3moranges
-����
+密码
 cd3m20190807
 
 
-��������
+公共邮箱
 cd3moranges@163.com
-����
+密码
 cd3m20190807
 
 
-�����  3Ķ��԰
+服务号  3亩橘园
 cd3moranges@163.com
-����
+密码
 cd3m20190807
+
+备案临时申请的虚拟主机
+主机管理控制台地址：
+https://cp.aliyun.com
+用户名：hyw7076660001
+控制台密码
+Cd3m@20190807
+FTP登录主机地址：
+hyw7076660001.my3w.com
+用户名：hyw7076660001
+FTP密码
+Cd3m@20190807
+SqlServer数据库连接地址：
+hds260381409.my3w.com
+用户名：hds260381409
+Sql密码
+Cd3m@20190807
